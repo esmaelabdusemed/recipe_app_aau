@@ -42,8 +42,6 @@ lib/
 - YouTube button opens in an external browser (default system behaviour).
 
 ## 🎥 Demo video
-[Replace with your Google Drive link – example: https://drive.google.com/file/d/your-file-id/view?usp=sharing]
-
 ## 🛠️ Built with
 - Flutter 3.x / Dart 3.x
 - `http` – API calls
